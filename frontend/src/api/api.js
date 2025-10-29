@@ -4,7 +4,7 @@
  */
 
 // Backend URL - Make sure this matches where your backend is running
-const BACKEND_URL = "http://localhost:5000/api/chat";
+const BACKEND_URL = "http://localhost:5001/api/chat";;
 
 // Store session ID to maintain conversation continuity
 let currentSessionId = null;
